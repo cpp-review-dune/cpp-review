@@ -1,4 +1,4 @@
-image: ghcr.io/cpp-review-dune/introductory-review/xeus-cling
+image: ghcr.io/cpp-review-dune/introductory-review/xeus-cling-dune
 
 tasks:
   - name: Starting server
